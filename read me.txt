@@ -1,0 +1,8 @@
+This DBMS PROJECT IS SUBMITTED TO DR. NITIN TYAGI.
+
+Project to demonstrate database connectivity in python.
+
+
+SUBMITTED BY:  AYUSH KULSHRESHTHA B.TECH (CS) 3RD YEAR
+               SEC (N)  
+               191500195
